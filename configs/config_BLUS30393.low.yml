@@ -1,0 +1,18 @@
+# NBA LIVE 27 preset "low" written by install.py. Edit freely, or delete this file
+# to fall back to your global RPCS3 settings.
+Core:
+  PPU Decoder: Recompiler (LLVM)
+  SPU Decoder: Recompiler (LLVM)
+  SPU Block Size: Safe
+  SPU XFloat Accuracy: Approximate
+  LLVM Precompilation: true
+Video:
+  Renderer: Vulkan
+  Resolution Scale: 100
+  Anisotropic Filter Override: 4
+  MSAA: Disabled
+  Multithreaded RSX: true
+  Relaxed ZCULL Sync: true
+  Accurate ZCULL stats: false
+  Vulkan:
+    Asynchronous Texture Streaming: true

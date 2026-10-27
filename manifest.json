@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "title_id": "BLUS30393",
+  "parts": [
+    {
+      "file": "nba-live-27-hdd0-part01.zip",
+      "kind": "hdd0",
+      "bytes": 1016311710,
+      "sha256": "0ba45f111171a7f440d8a073f53ad77a416425715f42601155068688b5311fae",
+      "files": 5780
+    },
+    {
+      "file": "nba-live-27-hdd0-part02.zip",
+      "kind": "hdd0",
+      "bytes": 851320672,
+      "sha256": "aea3eacccc859436c8a6a9a749193db6418397b0293ed9d584cdd24e70c4121d",
+      "files": 12638
+    },
+    {
+      "file": "nba-live-27-hdd0-part03.zip",
+      "kind": "hdd0",
+      "bytes": 379156789,
+      "sha256": "de5c4f91e0ec176ba4035649df529dc11e0bc15a14f5553f2c0f36bb0e167680",
+      "files": 607
+    },
+    {
+      "file": "nba-live-27-disc-part01.zip",
+      "kind": "disc",
+      "bytes": 317180335,
+      "sha256": "a15b7719344be25a25a4530af8a40327e8313d565bea08f6d2be7904b8fb2ec2",
+      "files": 8
+    },
+    {
+      "file": "nba-live-27-reshade-extras.zip",
+      "kind": "reshade",
+      "bytes": 179822,
+      "sha256": "c08953263c82d2fef6bb4e7a36c5ef48675aac6802604a0492ca65a9da350a7e",
+      "files": 57
+    }
+  ]
+}
