@@ -14,7 +14,7 @@ What the mod changes:
 
 The base game is not included. You need your own copy of NBA Live 10 for PS3 (USA, title ID `BLUS30393`).
 
-The mod was made by its original author and is shared here with their permission. The installer, packaging and these docs were put together with Claude.
+The mod was made by Instagram user [@drewskiiie247](https://www.instagram.com/drewskiiie247/) and is shared here with their permission. The installer, packaging and these docs were put together with Claude.
 
 ## Quick install (Windows, Linux, macOS, Steam Deck)
 
